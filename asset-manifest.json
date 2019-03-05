@@ -1,0 +1,13 @@
+{
+  "main.css": "/wines/static/css/main.1ae5761a.chunk.css",
+  "main.js": "/wines/static/js/main.77801a0a.chunk.js",
+  "main.js.map": "/wines/static/js/main.77801a0a.chunk.js.map",
+  "runtime~main.js": "/wines/static/js/runtime~main.9aa811f4.js",
+  "runtime~main.js.map": "/wines/static/js/runtime~main.9aa811f4.js.map",
+  "static/js/2.00ec0959.chunk.js": "/wines/static/js/2.00ec0959.chunk.js",
+  "static/js/2.00ec0959.chunk.js.map": "/wines/static/js/2.00ec0959.chunk.js.map",
+  "index.html": "/wines/index.html",
+  "precache-manifest.440249e46cf91182adb3d75424cc8e45.js": "/wines/precache-manifest.440249e46cf91182adb3d75424cc8e45.js",
+  "service-worker.js": "/wines/service-worker.js",
+  "static/css/main.1ae5761a.chunk.css.map": "/wines/static/css/main.1ae5761a.chunk.css.map"
+}
